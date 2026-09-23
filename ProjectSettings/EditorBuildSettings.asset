@@ -14,9 +14,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/ARPointClouds.unity
     guid: 8f75eeb5f17af604b84556b19a68096d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/ARRaycasts.unity
     guid: c1efbecdd4c138a4eafb32453227a4a9
+  - enabled: 1
+    path: Assets/Scenes/ARCamAndLighting.unity
+    guid: f6e733a1363d0124887819d631c3a179
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
